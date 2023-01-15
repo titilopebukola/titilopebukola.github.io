@@ -1,5 +1,5 @@
 ## Tips On Markdown Best Practices
 1. Heading: To create a heading, add "#" infront of a word. In html, there are different type of headings; h1,h2,h3,h4,h5,h6.  
 These headings can also be achieved in the markdown by adding '#' before a word,e.g.
--h1: # Heading 1
--h2: ## heading 2
+- h1: # Heading 1
+- h2: ## heading 2
